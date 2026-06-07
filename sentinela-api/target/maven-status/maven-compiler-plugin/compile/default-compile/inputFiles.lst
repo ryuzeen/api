@@ -1,0 +1,17 @@
+C:\Users\Pichau\Desktop\Project\college\4°ano\Global part1\sentinela-api\src\main\java\br\com\fiap\sentinela\controller\OcorrenciaController.java
+C:\Users\Pichau\Desktop\Project\college\4°ano\Global part1\sentinela-api\src\main\java\br\com\fiap\sentinela\controller\RegiaoController.java
+C:\Users\Pichau\Desktop\Project\college\4°ano\Global part1\sentinela-api\src\main\java\br\com\fiap\sentinela\dto\OcorrenciaRequest.java
+C:\Users\Pichau\Desktop\Project\college\4°ano\Global part1\sentinela-api\src\main\java\br\com\fiap\sentinela\dto\OcorrenciaResponse.java
+C:\Users\Pichau\Desktop\Project\college\4°ano\Global part1\sentinela-api\src\main\java\br\com\fiap\sentinela\exception\GlobalExceptionHandler.java
+C:\Users\Pichau\Desktop\Project\college\4°ano\Global part1\sentinela-api\src\main\java\br\com\fiap\sentinela\exception\RecursoNaoEncontradoException.java
+C:\Users\Pichau\Desktop\Project\college\4°ano\Global part1\sentinela-api\src\main\java\br\com\fiap\sentinela\model\FonteDeteccao.java
+C:\Users\Pichau\Desktop\Project\college\4°ano\Global part1\sentinela-api\src\main\java\br\com\fiap\sentinela\model\Ocorrencia.java
+C:\Users\Pichau\Desktop\Project\college\4°ano\Global part1\sentinela-api\src\main\java\br\com\fiap\sentinela\model\Regiao.java
+C:\Users\Pichau\Desktop\Project\college\4°ano\Global part1\sentinela-api\src\main\java\br\com\fiap\sentinela\model\Severidade.java
+C:\Users\Pichau\Desktop\Project\college\4°ano\Global part1\sentinela-api\src\main\java\br\com\fiap\sentinela\model\StatusOcorrencia.java
+C:\Users\Pichau\Desktop\Project\college\4°ano\Global part1\sentinela-api\src\main\java\br\com\fiap\sentinela\model\TipoOcorrencia.java
+C:\Users\Pichau\Desktop\Project\college\4°ano\Global part1\sentinela-api\src\main\java\br\com\fiap\sentinela\repository\OcorrenciaRepository.java
+C:\Users\Pichau\Desktop\Project\college\4°ano\Global part1\sentinela-api\src\main\java\br\com\fiap\sentinela\repository\RegiaoRepository.java
+C:\Users\Pichau\Desktop\Project\college\4°ano\Global part1\sentinela-api\src\main\java\br\com\fiap\sentinela\SentinelaApplication.java
+C:\Users\Pichau\Desktop\Project\college\4°ano\Global part1\sentinela-api\src\main\java\br\com\fiap\sentinela\service\OcorrenciaService.java
+C:\Users\Pichau\Desktop\Project\college\4°ano\Global part1\sentinela-api\src\main\java\br\com\fiap\sentinela\service\RegiaoService.java

@@ -1,0 +1,17 @@
+br\com\fiap\sentinela\model\Regiao.class
+br\com\fiap\sentinela\dto\OcorrenciaResponse.class
+br\com\fiap\sentinela\dto\OcorrenciaRequest.class
+br\com\fiap\sentinela\controller\OcorrenciaController.class
+br\com\fiap\sentinela\exception\RecursoNaoEncontradoException.class
+br\com\fiap\sentinela\model\TipoOcorrencia.class
+br\com\fiap\sentinela\SentinelaApplication.class
+br\com\fiap\sentinela\service\RegiaoService.class
+br\com\fiap\sentinela\model\StatusOcorrencia.class
+br\com\fiap\sentinela\service\OcorrenciaService.class
+br\com\fiap\sentinela\model\FonteDeteccao.class
+br\com\fiap\sentinela\model\Severidade.class
+br\com\fiap\sentinela\controller\RegiaoController.class
+br\com\fiap\sentinela\repository\RegiaoRepository.class
+br\com\fiap\sentinela\exception\GlobalExceptionHandler.class
+br\com\fiap\sentinela\repository\OcorrenciaRepository.class
+br\com\fiap\sentinela\model\Ocorrencia.class
