@@ -1,10 +1,5 @@
 # Global Solution 2026/1
 
-Aluno: Italo de Souza  — RM 551500
-Aluno:	Matheus Morete Espinoso - RM 552428
-Aluno:	Rafael Perussi Caczan - RM 93092
-Aluno: Victor Montenegro Borges - RM 98708
-Aluno: Octávio Hernandez Chiste Cordeiro - RM 97894
 **Projeto:** SENTINELA — plataforma de monitoramento e resposta a desastres naturais (dados de satélite + sensores IoT).
 
 Este pacote cobre 3 das 6 partes do projeto: **Banco de Dados, API REST e Plano de Testes**. As outras partes (Mobile, Segurança e IoT) estão sob responsabilidade dos demais membros do grupo.
